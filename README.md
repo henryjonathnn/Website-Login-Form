@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A stundent from SMK TI Pelita Nusantara</h3>
+<h2 align="center">A stundent from SMK TI Pelita Nusantara</h2>
 
 <h3 align="center">I've made a simple Login & Sign Up Form</h3>
 
